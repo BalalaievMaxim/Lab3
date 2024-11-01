@@ -1,3 +1,5 @@
-## Functions, lambda-functions, function contexts, closures
+## Lab2
 
-[![Функции, лямбды, контексты, замыкания](https://img.youtube.com/vi/pn5myCmpV2U/0.jpg)](https://www.youtube.com/watch?v=pn5myCmpV2U)
+Laboratory work number 3 for Gendev course in KPI
+
+by Balalaiev Maxim, IM-43
